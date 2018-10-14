@@ -1,0 +1,17 @@
+"jobs":
+{
+  "jobID": "",
+  "jobPickupLocation": "",
+  "jobPickupTime": "",
+  "jobDeliveryLocation": "",
+  "jobDeliveryTime": "",
+  "jobContactName": "",
+  "jobContactNumber": "",
+  "jobStatus": "",
+  "jobAccepted": false,
+  "jobContents": [{
+    "itemName": "",
+    "itemQuantity": 0,
+    "itemUOM": ""
+  }]
+}

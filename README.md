@@ -20,7 +20,7 @@ Tech Stack:
 * Data migration: Ninja Forms generated CSV ~
 * Firebase ~ 
 
-(~ implementation suggestions)
+~ implementation suggestions
 
 ## Deliverables
 * Prototype 

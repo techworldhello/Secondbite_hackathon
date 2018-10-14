@@ -18,8 +18,9 @@ Tech Stack:
 * Leaflet (free map API) ~
 * Twillio (auto text notification services) ~
 * Data migration: Ninja Forms generated CSV ~
-* Firebase ~
-~ implementation suggestions 
+* Firebase ~ 
+
+(~ implementation suggestions)
 
 ## Deliverables
 * Prototype 
